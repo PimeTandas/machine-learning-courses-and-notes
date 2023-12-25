@@ -3,5 +3,5 @@ This repository houses all my notes, labs, courses and notebooks I used/ created
 Completed Courses:
 
 
-- [Machine Learning A-Z Udemy Course](https://github.com/PimeTandas/machine-learning-courses-and-notes/tree/master/machine%20learning%20A-Z) - Regression (Simple, Multi, Polynomial), SVM, Random Forest and Clustering...
-- [Supervised Machine Learning - Regression and Classification](www.test.com) - Linear Regression and Classification.
+- [Machine Learning A-Z Udemy Course](https://github.com/PimeTandas/machine-learning-courses-and-notes/tree/master/machine%20learning%20A-Z) - Regression (Simple, Multi, Polynomial), SVM, Random Forest and Clustering. Creating models with sklearn.
+- [Supervised Machine Learning - Regression and Classification](www.test.com) - Linear Regression and Classification from scratch.
