@@ -1,4 +1,4 @@
-uhehehe# machine-learning-courses-and-notes
+iuhehehe# machine-learning-courses-and-notes
 This repository houses all my notes, labs, courses and notebooks I used/ created while learning Machine Learning. The listing below highlights the course and topics assoicated with it.
 Completed Courses:
 
@@ -8,6 +8,6 @@ Completed Courses:
 - [Stanford Machine Learning Course (CS229) - Andrew Ng](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) - Completed CS229 lectures on Machine Learning.
   h
 
-
+nnmm
  bnhh
 bdndne
